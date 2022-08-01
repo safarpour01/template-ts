@@ -8,8 +8,20 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          This template made by{" "}
+          <a
+            className="App-link"
+            href="https://github.com/safarpour01"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Alireza Safarpour
+          </a>
+        </p>
+        <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
